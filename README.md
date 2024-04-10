@@ -1,13 +1,6 @@
-<! -- # STUTERN GRADUATE ACCELERATOR PROGRAM -->
+# DATA SCIENCE ASSESSMENT ON IBM EMPLOYEE ATTRITION
 
-
-### DATA SCIENCE ASSESSMENT ON IBM EMPLOYEE ATTRITION
-
-#### Assessment Tasks
-Using the attr_data.db, extract all the data from the only table in the database using SQL. Once the data is extracted, import the data into Pandas and continue with the analysis.
-
-The following questions should be answered:
-
+#### Assessment Goals/Questions
 - What do you think are the 3 factors behind employee attrition?
 - What is the relationship between Education and Monthly Income?
 - What is the effect of age on attrition?
